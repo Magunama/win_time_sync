@@ -1,6 +1,6 @@
 # Win Time Sync
 
-Win Time Sync - a small tyme sync .bat script useful for when dual-booting affects your Windows time.
+Win Time Sync - a small time sync .bat script useful for when dual-booting affects your Windows time.
 
 ## Getting Started
 
